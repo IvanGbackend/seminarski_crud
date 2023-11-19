@@ -1,1 +1,1 @@
-# seminarski_crud
+# crud_application
